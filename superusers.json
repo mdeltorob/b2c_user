@@ -1,7 +1,15 @@
-[{
-  "user_session_guid": "test_git_prod",
-  "mvpd": "Dish",
-  "billing_zip": "11211",
-  "device_zip": "94108"
-}]
+[
+	{
+	  "user_session_guid": "test_git_prod",
+	  "mvpd": "Dish",
+	  "billing_zip": "11211",
+	  "device_zip": "94108"
+	},
+	{
+	  "user_session_guid": "933ba1a4bae33425be1fe3ea0dfd728a",
+	  "mvpd": "DTV",
+	  "billing_zip": "15212",
+	  "device_zip": "17266"
+	}
+]
 
