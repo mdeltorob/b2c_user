@@ -34,6 +34,12 @@
 	  "mvpd": "DTV",
 	  "billing_zip": "89101",
 	  "device_zip": "89101"
+	},
+	{
+	  "user_session_guid": "21d03252b2b6cda33ce9ccfeef503ceb",
+	  "mvpd": "DTV",
+	  "billing_zip": "77002",
+	  "device_zip": "77002"
 	}
 ]
 
