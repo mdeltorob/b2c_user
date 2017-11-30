@@ -58,6 +58,12 @@
 	  "mvpd": "fal010",
 	  "billing_zip": "80908",
 	  "device_zip": "89101"
+	},
+	{
+	  "user_session_guid": "308966ff2805f932e048dfe35bd2fd57",
+	  "mvpd": "bea020",
+	  "billing_zip": "18837",
+	  "device_zip": "17266"
 	}
 ]
 
