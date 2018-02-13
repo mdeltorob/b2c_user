@@ -298,6 +298,13 @@
       "body": "Program not authorized in your current location. Do you want to return to the schedule?",
       "recovery": "or try playing an alternate program."
     },
+	{
+      "code": 81,
+      "header": "This event is not available on your current location.",
+      "icon_class": "error__icon-location",
+      "body": "Program not authorized in your current location. Do you want to return to the schedule?",
+      "recovery": "or try playing an alternate program."
+	},
     {
       "code": 9,
       "header": "Location services turned off",
