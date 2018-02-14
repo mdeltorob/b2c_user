@@ -300,7 +300,7 @@
     },
 	{
       "code": 81,
-      "header": "This event is not available on your current location.",
+      "header": "This event is not available on your current location. Do you want to return to the schedule?",
       "icon_class": "error__icon-location",
       "body": "Program not in your billing zip market territory.",
       "recovery": "or try playing an alternate program."
