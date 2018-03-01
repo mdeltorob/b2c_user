@@ -295,15 +295,15 @@
       "code": 8,
       "header": "This event is not available on your current location.",
       "icon_class": "error__icon-location",
-      "body": "Program not authorized in your current location. Do you want to return to the schedule?",
-      "recovery": "or try playing an alternate program."
+      "body": "Program not authorized in your current location.",
+      "recovery": "Please try playing alternate program"
     },
 	{
       "code": 81,
-      "header": "This event is not available on your current location. Do you want to return to the schedule?",
+      "header": "This event is not available on your current location.",
       "icon_class": "error__icon-location",
       "body": "Program not in your billing zip market territory.",
-      "recovery": "or try playing an alternate program."
+      "recovery": "Please try playing alternate program"
 	},
     {
       "code": 9,
