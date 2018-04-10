@@ -4,7 +4,14 @@
         "mvpd": "DTV",
         "billing_zip": "73025",
         "device_zip": "74074"
+    },
+    {
+        "user_session_guid": "21efbf620b3a342cca83f3276c110ed4",
+        "mvpd": "ATT",
+        "billing_zip": "73025",
+        "device_zip": "74074"
     }
+    
 ]
 
 
