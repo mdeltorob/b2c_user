@@ -356,5 +356,5 @@
     }
   ],
   "hotAndroidDevices": ["samsung_GT-I9505", "samsung_GT-I9500", "samsung_GT-I9505G", "Verizon_SCH-I545"],
-  "blacklistedMvpdIds": []
+  "blacklistedMvpdIds": ["nor030"]
 }
